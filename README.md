@@ -8,15 +8,14 @@
   
 </p>
 <p align="center">
-  This is official repository for bhai-lang.<br><br>
-  <b>Bhai lang is a toy programming language written in Typescript.</b>
+  This is official repository for mitrolang forked from bhai-lang written in Type-Script.<br><br>
 </p>
 <br>
 
 <h2 align="center">Installation</h2>
 
 ```
-npm i -g bhailang
+npm i -g mitrolang
 ```
 
 <h2 align="center">Usage</h2>
